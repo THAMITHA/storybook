@@ -1,0 +1,5 @@
+npm ERR! code FETCH_ERROR
+npm ERR! errno FETCH_ERROR
+npm ERR! Response timeout while trying to fetch https://na.artifactory.swg-devops.com/artifactory/api/npm/appconnect-npm/@storybook%2faddon-backgrounds (over 300000ms)
+
+npm ERR! A complete log of this run can be found in: /Users/thamitha/.npm/_logs/2023-12-05T03_57_52_025Z-debug-0.log
